@@ -4,7 +4,7 @@ A meditation app with three stages.
 
 Basic meditation app with three stages.
 
-The web app can be viewed here:
+The web app can be viewed here: https://minimalist-meditation-app.netlify.app/
 
 This app consists of 3 stages.
 
@@ -16,3 +16,4 @@ This was achieved via CSS @keyframe animations where I started off with specifyi
 
 A demonstration is shown below as a GIF:
 
+![Meditation App](https://user-images.githubusercontent.com/82039703/136374241-144ca378-c191-40dd-b7da-c95c019340b0.gif)
